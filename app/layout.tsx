@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: 'Remote Side Gigs',
     title: 'Remote Side Gigs — Earn from anywhere',
     description: 'Compare 132 trusted platforms for remote work, freelance projects and flexible side income.',
-    images: [{ url: '/og.png', width: 1536, height: 1024, alt: 'Remote Side Gigs — 120+ trusted platforms to earn from anywhere' }],
+    images: [{ url: '/og.png', width: 1731, height: 909, alt: 'Remote Side Gigs — 120+ trusted platforms to earn from anywhere' }],
   },
   twitter: {
     card: 'summary_large_image',
