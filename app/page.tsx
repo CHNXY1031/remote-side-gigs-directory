@@ -41,7 +41,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-5 pb-20 sm:px-8 lg:px-12">
         <div className="disclaimer"><ShieldCheck size={22} className="shrink-0 text-emerald-300" /><p><strong>Independent directory.</strong> Pay figures are editorial estimates, not income guarantees. Availability, eligibility, fees and payout options vary by country and can change. Always review the platform’s current terms before applying.</p></div>
       </section>
-      <footer className="border-t border-white/10 px-5 py-10 text-sm text-slate-500 sm:px-8"><div className="mx-auto flex max-w-7xl flex-col gap-4 sm:flex-row sm:items-center sm:justify-between"><span>© 2026 Remote Side Gigs Directory</span><span>Built for flexible work, worldwide.</span></div></footer>
+      <footer className="border-t border-white/10 px-5 py-10 text-sm text-slate-500 sm:px-8"><div className="mx-auto flex max-w-7xl flex-col gap-4 sm:flex-row sm:items-center sm:justify-between"><span>© 2026 Remote Side Gigs Directory</span><span>Built for flexible work, worldwide.</span><a href="https://uptime-pulse-saas.vercel.app/?utm_source=remote-side-gigs-directory&amp;utm_medium=referral&amp;utm_campaign=protected_by" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-600 underline decoration-slate-700 underline-offset-4 transition hover:text-emerald-300">Protected by UptimePulse — Free Website &amp; SSL Monitor</a></div></footer>
     </main>
   );
 }
